@@ -1,6 +1,7 @@
 # noteTaker
 
-## [Deployed Site]() 
+## [Deployed Site](https://notetaker-production-495d.up.railway.app/) 
+
 ## Description
 A simple note taking app that I developed the backend for. My motivation for this project was to learn how to use Express JS for backend server side work. During the project I learned a lot about routing. 
 
